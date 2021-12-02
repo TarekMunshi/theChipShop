@@ -1,0 +1,191 @@
+[
+  {
+    "item": 1,
+    "name": "Apple iPhone 13 Pro Max",
+    "img": "https://i.ibb.co/54CN405/apple-iphone-13-pro-max-5g-dual-esim-512gb-6gb-ram-blue.jpg",
+    "price": 1850,
+    "features": "Dual Pixel PDAF, sensor-shift OIS, dual-LED flash, ultrawide, depth, telephoto, 3x optical zoom & more",
+    "rom": "512GB",
+    "ram": "6Gb"
+  },
+  {
+    "item": 2,
+    "name": "Apple iPhone 12 Pro Max",
+    "img": "https://i.ibb.co/4PQFhbH/apple-iphone-12-pro-max-5g-dual-esim-512gb-6gb-ram-gold.jpg",
+    "price": 1800,
+    "features": "F/2.2, HDR, depth / biometrics sensor",
+    "rom": "512GB",
+    "ram": "6Gb"
+  },
+  {
+    "item": 3,
+    "name": "Apple iPhone 11",
+    "img": "https://i.ibb.co/N32FqbH/apple-iphone-11-dual-esim-256gb-4gb-ram-purple.jpg",
+    "price": 1500,
+    "features": "625 nits, 120Hz, true-tone, wide color gamut",
+    "rom": "256GB",
+    "ram": "4Gb"
+  },
+  {
+    "item": 4,
+    "name": "Apple iPhone XS",
+    "img": "https://i.ibb.co/tCcpPZs/apple-iphone-xs-dual-esim-256gb-silver.jpg",
+    "price": 1350,
+    "features": "F/2.2, HDR, depth / biometrics senso",
+    "rom": "256GB",
+    "ram": "4Gb"
+  },
+  {
+    "item": 5,
+    "name": "Google Pixel 6",
+    "img": "https://i.ibb.co/pyPqyMs/google-pixel-6-5g-dual-esim-128gb-8gb-ram-sorta-seafoam-green.jpg",
+    "price": 830,
+    "features": "90Hz, HDR10+Always-on display",
+    "rom": "256GB",
+    "ram": "8Gb"
+  },
+  {
+    "item": 6,
+    "name": "Google Pixel 6",
+    "img": "https://i.ibb.co/pyPqyMs/google-pixel-6-5g-dual-esim-128gb-8gb-ram-sorta-seafoam-green.jpg",
+    "price": 830,
+    "features": "90Hz, HDR10+Always-on display",
+    "rom": "256GB",
+    "ram": "8Gb"
+  },
+  {
+    "item": 7,
+    "name": "OnePlus 9 Pro",
+    "img": "https://i.ibb.co/W3mJBYq/oneplus-9-pro-5g-dual-sim-128gb-8gb-ram-green.jpg",
+    "price": 625,
+    "features": "Always-on display 120Hz, HDR10+, 1300 nits (peak)",
+    "rom": "128GB",
+    "ram": "8Gb"
+  },
+  {
+    "item": 8,
+    "name": "Oppo Find X3 Lite",
+    "img": "https://i.ibb.co/7tqwQkH/oppo-find-x3-lite-5g-dual-sim-128gb-8gb-ram-blue.jpg",
+    "price": 525,
+    "features": "90Hz, 600 nits (typ), 750 nits (peak)",
+    "rom": "128GB",
+    "ram": "8Gb"
+  },
+  {
+    "item": 9,
+    "name": "Oppo Find X3 Pro",
+    "img": "https://i.ibb.co/vHfT6cd/oppo-find-x3-pro-5g-dual-sim-256gb-12gb-ram-black-1.jpg",
+    "price": 1096,
+    "features": "120Hz, HDR10+, 800 nits (typ), 1200 nits",
+    "rom": "256GB",
+    "ram": "12Gb"
+  },
+  {
+    "item": 10,
+    "name": "Oppo Reno 5",
+    "img": "https://i.ibb.co/WGZ0VpH/oppo-reno5-5g-dual-sim-128gb-8gb-ram-blue.jpg",
+    "price": 375,
+    "features": "PDAF, LED flash, 119º ultrawide, depth, macro & more",
+    "rom": "128GB",
+    "ram": "8Gb"
+  },
+  {
+    "item": 11,
+    "name": "Realme 8",
+    "img": "https://i.ibb.co/HDwYkY2/realme-8-dual-sim-64gb-4gb-ram-black.jpg",
+    "price": 265,
+    "features": "Always-on display, 1000 nits max. brightness",
+    "rom": "64GB",
+    "ram": "4Gb"
+  },
+  {
+    "item": 12,
+    "name": "Realme 8i",
+    "img": "https://i.ibb.co/ySf7Xx8/realme-8i-dual-sim-128gb-4gb-ram-purple.jpg",
+    "price": 265,
+    "features": "120Hz, 600 nits (peak) & More",
+    "rom": "128GB",
+    "ram": "4Gb"
+  },
+  {
+    "item": 13,
+    "name": "Realme GT Neo2",
+    "img": "https://i.ibb.co/0ctQ7bL/realme-gt-neo-2-5g-dual-sim-128gb-8gb-ram-blue.jpg",
+    "price": 465,
+    "features": "120Hz refresh rate, HDR10+, 1300 nits (max. brightness)",
+    "rom": "128GB",
+    "ram": "8Gb"
+  },
+  {
+    "item": 14,
+    "name": "Samsung Galaxy S21 Ultra",
+    "img": "https://i.ibb.co/yFZ3HT0/samsung-galaxy-s21-ultra-5g-dual-sim-128gb-12gb-ram-sm-g998b-ds-phantom-black.jpg",
+    "price": 1622,
+    "features": "HDR10+, Always-on display, 120Hz, 1500 nits max. brightness",
+    "rom": "128GB",
+    "ram": "12Gb"
+  },
+  {
+    "item": 15,
+    "name": "Samsung Galaxy Z Flip3",
+    "img": "https://i.ibb.co/D12yvNX/samsung-galaxy-z-flip3-5g-dual-esim-256gb-8gb-ram-sm-f711b-black.jpg",
+    "price": 1272,
+    "features": "F/2.4 aperture, 1.22µm, HDR & more",
+    "rom": "256GB",
+    "ram": "8Gb"
+  },
+  {
+    "item": 16,
+    "name": "Samsung Galaxy Z Fold3",
+    "img": "https://i.ibb.co/2dR1KJF/samsung-galaxy-z-fold3-5g-dual-esim-512gb-12gb-ram-sm-f926f-ds-phantom-black.jpg",
+    "price": 2150,
+    "features": "Loudspeaker (stereo speakers), AKG tuned, 32-bit/384kHz audio",
+    "rom": "512GB",
+    "ram": "12Gb"
+  },
+  {
+    "item": 17,
+    "name": "Xiaomi 11T pro",
+    "img": "https://i.ibb.co/6nNvn9F/xiaomi-11t-pro-5g-dual-sim-256gb-8gb-ram-blue.jpg",
+    "price": 816,
+    "features": "Dual-LED dual-tone flash, panorama HDR",
+    "rom": "256GB",
+    "ram": "8Gb"
+  },
+  {
+    "item": 17,
+    "name": "Xiaomi Black Shark 4",
+    "img": "https://i.ibb.co/ZY59Kc4/xiaomi-black-shark-4-5g-dual-sim-128gb-8gb-ram-pale-grey.jpg",
+    "price": 409,
+    "features": "LED flash, HDR, panorama HDR",
+    "rom": "128GB",
+    "ram": "8Gb"
+  },
+  {
+    "item": 18,
+    "name": "Xiaomi Mi 11",
+    "img": "https://i.ibb.co/ySNspTQ/xiaomi-mi-11-5g-dual-sim-256gb-8gb-ram-grey.jpg",
+    "price": 654,
+    "features": "Loudspeaker (stereo speakers), 24-bit/192kHz audio",
+    "rom": "256GB",
+    "ram": "8Gb"
+  },
+  {
+    "item": 19,
+    "name": "Xiaomi Poco M4 Pro",
+    "img": "https://i.ibb.co/2d2NkX4/xiaomi-poco-m4-pro-5g-dual-sim-128gb-6gb-ram-black.jpg",
+    "price": 292,
+    "features": "90Hz, 450 nits (typ)",
+    "rom": "128GB",
+    "ram": "6Gb"
+  },
+  {
+    "item": 20,
+    "name": "Xiaomi Poco X3 Gt",
+    "img": "https://i.ibb.co/X8f4t4j/xiaomi-poco-x3-gt-5g-dual-sim-256gb-8gb-ram-black.jpg",
+    "price": 315,
+    "features": "120Hz, HDR10, 450 nits (typ)",
+    "rom": "256GB",
+    "ram": "8Gb"
+  }
+]
